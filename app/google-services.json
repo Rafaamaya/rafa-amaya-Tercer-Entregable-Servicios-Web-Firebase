@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530744656900",
+    "firebase_url": "https://museo-moma-37c85.firebaseio.com",
+    "project_id": "museo-moma-37c85",
+    "storage_bucket": "museo-moma-37c85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530744656900:android:e71b512d3ef3b555",
+        "android_client_info": {
+          "package_name": "com.rafael.servicios_web_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530744656900-nvfbcu98en1m1fnjnrj4tj7cfbfv3s6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafael.servicios_web_firebase",
+            "certificate_hash": "00f00bcda497f8e2acc6e8848a0904269467861a"
+          }
+        },
+        {
+          "client_id": "530744656900-hlvj3j8sum0kb7v9lvh68r2oqlrlacel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXczgLN5kLBUyNvNA1yHeepWnNyJo6XU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530744656900-hlvj3j8sum0kb7v9lvh68r2oqlrlacel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
